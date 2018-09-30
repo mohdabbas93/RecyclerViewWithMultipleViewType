@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerView With Multiple View Type</string>
+
+    <string name="name">Name</string>
+    <string name="quote">Quote</string>
+    <string name="regiment">Regiment</string>
+
+</resources>
